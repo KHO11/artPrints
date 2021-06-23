@@ -2983,7 +2983,7 @@ button.menu-toggle {
       right: 140px;
       padding-top: 80px;
       padding-right: 55%;
-      width: 180%; 
+      min-width: 180%; 
       height: 1450px;    
     }
 
